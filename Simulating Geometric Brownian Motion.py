@@ -7,11 +7,11 @@ mu = 0.1 # drift coefficient, representing the expected return of the asset per 
 
 n = 10000 # number of steps
 
-t = 1 # time in years
+t = 1
 
 M = 50 # number of simulation paths (aka trajectories) for the asset price
 
-S0 = 100 # initial stock price
+S0 = 100
 
 sigma = 0.3
 
